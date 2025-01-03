@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillerKatze999
 - 👀 I’m interested in coding and music lol
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning JavaScript
 
 <!---
 KillerKatze999/KillerKatze999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
