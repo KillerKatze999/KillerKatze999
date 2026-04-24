@@ -129,10 +129,11 @@ namespace DeveloperProfile
     public List<string> Architecture { get; set; } = new List<string>();
   }
 }
-
+```csharp
 ```md
 
 ```bash
+dotnet tool install --global niklas.devprofile
 
 > devprofile hack-the-planet
 
@@ -150,7 +151,7 @@ Usage:
 🚀 Always learning, always building
 
 💻 Skills:
--C#: Intermediate
+- C#: Intermediate
 - JavaScript: Intermediate
 - HTML: Intermediate
 
@@ -162,3 +163,4 @@ Usage:
 🏗️ Architecture:
 -Layered Architecture
 - REST APIs
+```bash
