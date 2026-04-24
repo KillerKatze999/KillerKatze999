@@ -22,7 +22,8 @@ namespace DeveloperProfile
       niklas.Tools.Add(".NET");
       niklas.Tools.Add("ASP.NET");
 
-      niklas.Architecture.Add("Layered Architecture");
+      niklas.Architecture.Add("MVC");
+      niklas.Architecture.Add("MVVM");
       niklas.Architecture.Add("REST APIs");
 
       return niklas;
@@ -158,5 +159,6 @@ Usage:
 - ASP.NET
 
 🏗️ Architecture:
-- Layered Architecture
+- MVC
+- MVVM
 - REST APIs
