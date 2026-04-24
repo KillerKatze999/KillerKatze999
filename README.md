@@ -2,7 +2,6 @@
 
 A small CLI - style representation of my developer profile, built with C#.
 
-
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -129,10 +128,8 @@ namespace DeveloperProfile
     public List<string> Architecture { get; set; } = new List<string>();
   }
 }
-```csharp
-```md
-
-```bash
+````
+````bash
 dotnet tool install --global niklas.devprofile
 
 > devprofile hack-the-planet
@@ -161,6 +158,5 @@ Usage:
 - ASP.NET
 
 🏗️ Architecture:
--Layered Architecture
+- Layered Architecture
 - REST APIs
-```bash
